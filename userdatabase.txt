@@ -1,0 +1,8 @@
+
+USER ID: 1
+NAME: user
+EMAIL: user@gmail.com
+ACTIVE: 1
+BORROWING HISTORY: Borrowed Book ID: 1, Title: book, Borrowed Date: 2024-06-30
+Returned Book ID: 1, Title: book, Return Date: 2024-07-15
+
